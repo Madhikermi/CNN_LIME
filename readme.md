@@ -1,1 +1,1 @@
-# Image Preprocessing for Red Lesions Detection
+# Image Preprocessing for red lesions detection
