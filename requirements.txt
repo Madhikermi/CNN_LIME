@@ -1,7 +1,6 @@
-opencv-python
 jupyter
+keras
 lime
 matplotlib
 numpy
-pandas
-tensorflow
+skimage
